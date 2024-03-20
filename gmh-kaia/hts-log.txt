@@ -1,0 +1,40 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 08 Nov 2023 03:04:12 at https://www.gmhkaia.com/
+(httrack https://www.gmhkaia.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:08:38	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=689
+03:08:38	Warning: 	File has moved from https://www.gmhkaia.com/?p=689 to https://www.gmhkaia.com/contact-us/
+03:08:40	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=450
+03:08:40	Warning: 	File has moved from https://www.gmhkaia.com/?p=450 to https://www.gmhkaia.com/residences/
+03:08:40	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=523
+03:08:40	Warning: 	File has moved from https://www.gmhkaia.com/?p=523 to https://www.gmhkaia.com/kaia/crafting-sustainability-kaias-blueprint/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=519
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=519 to https://www.gmhkaia.com/kaia/a-lifestyle-destination-reimagined/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=514
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=514 to https://www.gmhkaia.com/kaia/about-us-gmh-development/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=510
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=510 to https://www.gmhkaia.com/kaia/welcome-to-kaia-a-new-way-of-living/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=651
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=651 to https://www.gmhkaia.com/lifestyle-destination/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=917
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=917 to https://www.gmhkaia.com/sustainable-design/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=1002
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=1002 to https://www.gmhkaia.com/location/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=46
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=46 to https://www.gmhkaia.com/gallery/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=49
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=49 to https://www.gmhkaia.com/news/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=674
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=674 to https://www.gmhkaia.com/about-us/
+03:08:43	Warning: 	Moved Permanently for https://www.gmhkaia.com/?p=980
+03:08:43	Warning: 	File has moved from https://www.gmhkaia.com/?p=980 to https://www.gmhkaia.com/team/
+03:08:43	Error: 	"Not Found" (404) at link https://www.gmhkaia.com/wp-content/themes/salient/css/img/icons/leaflet/marker-shadow.png (from https://www.gmhkaia.com/wp-content/themes/salient/css/build/elements/element-interactive-map.css?ver=15.0.8)
+03:08:43	Error: 	"Not Found" (404) at link https://www.gmhkaia.com/wp-content/themes/salient/css/img/icons/leaflet/layers.png (from https://www.gmhkaia.com/wp-content/themes/salient/css/build/plugins/leaflet.css?ver=6.2.3)
+03:08:43	Error: 	"Not Found" (404) at link https://www.gmhkaia.com/wp-content/themes/salient/css/img/icons/leaflet/layers-2x.png (from https://www.gmhkaia.com/wp-content/themes/salient/css/build/plugins/leaflet.css?ver=6.2.3)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 32 seconds : 291 links scanned, 274 files written (43515319 bytes overall) [40609808 bytes received at 149300 bytes/sec], 4074646 bytes transferred using HTTP compression in 98 files, ratio 20%, 6.2 requests per connection
+(3 errors, 26 warnings, 0 messages)
